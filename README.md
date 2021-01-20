@@ -2,8 +2,6 @@
 You will find all course materials in this github repository. We are using github as opposed to Blackboard for course materials so that you can learn how to use github and get used to it for your coding version control.
 
 ## Zoom Meeting Information
-Matthew Martinez is inviting you to a scheduled Zoom meeting.
-
 Join Zoom Meeting
 https://utsa.zoom.us/j/97605386828?pwd=cmtwQ1ZFcXBCb2phQW1vdGJxKzNudz09
 
