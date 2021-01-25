@@ -24,6 +24,7 @@ We will also refer to some of this material throughout the course so do not feel
 
 ### **Readings**
 *Introduction to Python*
+<br/>
   https://www.python.org/about/gettingstarted/
   
   *R Cookbook*  
