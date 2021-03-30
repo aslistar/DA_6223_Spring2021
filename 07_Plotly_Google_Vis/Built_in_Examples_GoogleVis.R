@@ -35,8 +35,7 @@ library(googleVis)
   plot(Pie)
   
 #### Tables ####
-  Table <- gvisTable(Stock, 
-                     formats=list(Value="#,###"))
+  Table <- gvisTable(Stock)
   plot(Table)
 
 #### Adding Edit Option ####
