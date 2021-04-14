@@ -12,7 +12,7 @@ ui <- fluidPage(
     # Inputs: Select variables to plot ------------------------------
     sidebarPanel(
       
-      # Select variable for y-axis
+      # Make the Title
       textInput(inputId = "plot_title",
                 label= "Enter Title Here:",
                 placeholder = "Enter Text"),
